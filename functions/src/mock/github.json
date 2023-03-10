@@ -1,0 +1,12 @@
+[
+  {
+    "id": "12345",
+    "name": "sample-repo",
+    "fullName": "Sample Repo",
+    "defaultBranch": "main",
+    "branches": [
+      { "name": "main" },
+      { "name": "develop" }
+    ]
+  }
+]
